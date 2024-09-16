@@ -1,14 +1,16 @@
 # Decarb
+In no particular order! 
+- [Haaris Farooq](https://www.linkedin.com/in/haaris-farooq/)
+- [Vinz Kakilala](https://www.linkedin.com/in/vinzkakilala/)
+- [Aalaap Dey](https://www.linkedin.com/in/aalaapdey/)
+- [Alex Do](https://www.linkedin.com/in/alexdo04/)
+- [Viraj Ganatra](https://www.linkedin.com/in/virajganatra/)
+- [Leon Kuessener](https://www.linkedin.com/in/leon-kuessner-66061b1a2/)
+- [William Jones](https://www.linkedin.com/in/williamjones0/)
 
-hello all
+# What we've done
+- Citadel ICHack24 Winners
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Coming up
+- CIUK24 in November
+- Decarb Exchange
