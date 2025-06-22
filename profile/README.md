@@ -19,7 +19,7 @@ In no particular order!
 - [Leon Kuessener](https://www.linkedin.com/in/leon-kuessner-66061b1a2/)
   - Equities Trading Data Analyst @ Liquidnet ('23)
   - Execution Analyst Intern @ Liquidnet ('24)
-  - FIM Trading @ Citadel ('25)
+  - FIM Trading Intern @ Citadel ('25)
 - [William Jones](https://www.linkedin.com/in/williamjones0/)
   - Research Intern @ Deepmind ('24)
   - SWE Intern @ CBOE Global Markets ('25)
